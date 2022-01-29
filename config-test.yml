@@ -2,3 +2,4 @@ config:
   info:
     branch: dev
     profile: test
+    version: 1
