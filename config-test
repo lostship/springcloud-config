@@ -1,4 +1,4 @@
 config:
   info:
-    branch: master
+    branch: dev
     profile: test
